@@ -1,2 +1,3 @@
 # earthquake-tsunami-prediction
-Analysis of global earthquake data for tsunami risk"
+Analysis of global earthquake data for tsunami risk
+Tsunamis are highly destructive events, making early prediction crucial for disaster mitigation. This project investigates whether machine learning can classify tsunami-generating earthquakes using seismic features such as magnitude, depth, and remoteness. Several models were evaluated, with XGBoost showing the strongest performance due to its ability to capture non-linear patterns and control overfitting. The study also analyzes feature behavior and key factors influencing tsunami generation, demonstrating the feasibility of data-driven tsunami prediction.
