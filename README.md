@@ -1,3 +1,31 @@
-# earthquake-tsunami-prediction
-Analysis of global earthquake data for tsunami risk
-Tsunamis are highly destructive events, making early prediction crucial for disaster mitigation. This project investigates whether machine learning can classify tsunami-generating earthquakes using seismic features such as magnitude, depth, and remoteness. Several models were evaluated, with XGBoost showing the strongest performance due to its ability to capture non-linear patterns and control overfitting. The study also analyzes feature behavior and key factors influencing tsunami generation, demonstrating the feasibility of data-driven tsunami prediction.
+# Earthquake & Tsunami Prediction 
+
+![Language](https://img.shields.io/badge/Language-HTML-yellow.svg)
+![Data Analysis](https://img.shields.io/badge/Topic-Data%20Analysis-lightgrey.svg)
+
+> A visual analysis platform exploring tsunami risks based on historical global earthquake data.
+
+## Introduction
+
+This project aims to provide browser-based visualization and analysis of global earthquake data, exploring the potential correlation between seismic activity and tsunami risks. It offers an intuitive data observation and analysis view for earth science researchers and enthusiasts.
+
+## Tech Stack
+
+- **Frontend Structure & Styling**: HTML / CSS
+
+## How to Run
+
+Since this project is built as static web pages, you can easily run it locally:
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/moffey0v0/earthquake-tsunami-prediction.git
+   cd earthquake-tsunami-prediction
+   ```
+
+2. Simply double-click on any `*.html` file to open it in your web browser.
+
+## Data Sources
+
+The data analysis is based on publicly available records of global seismic activity, with a focus on predicting and evaluating tsunami risks.
